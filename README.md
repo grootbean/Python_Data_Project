@@ -10,7 +10,7 @@ To find the most demanded skills for the top 3 most popular data roles. I filter
 
 ### Results:
 
-![Visualization of Top Skills](Python_Data_Project\3_Project\images\skill_demand_all_data_roles.png)
+![Visualization of Top Skills](3_Project/images/skill_demand_all_data_roles.png)
 
 
 ### Insights:
